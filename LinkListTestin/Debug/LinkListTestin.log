@@ -1,0 +1,2 @@
+﻿  LinkListTestin.cpp
+C:\Users\badbo\source\repos\LinkListTestin\LinkListTestin\LinkListTestin.cpp(26,5): error C2146: syntax error: missing ';' before identifier 'Node'
