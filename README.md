@@ -1,2 +1,2 @@
 # Link List
- A basic link list exercise.
+ A small link list exercise.
